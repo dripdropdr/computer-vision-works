@@ -1,7 +1,7 @@
 # Computer-Vision-works
 
 This repository is created for archieving works from computer vision works.   
-It composes to panorama-making, cartoonize, camera-calibration.
+It composes to [panorama-making](https://github.com/dripdropdr/computer-vision-works#panorama_cv), [cartoonize](https://github.com/dripdropdr/computer-vision-works#cartoonize_cv), [camera-calibration and pose-estimation](https://github.com/dripdropdr/computer-vision-works#camera-calibration-on-a_cv).
 
 
 
@@ -53,15 +53,15 @@ For catoonzie, we use 1) constrast stretching and 2) k-means clustering.
 
 *Input*
 
-<img src=https://user-images.githubusercontent.com/81093298/228485310-eae6ed9a-e24b-42ac-b12a-d9030f440a2b.jpeg height=500px/>
+<img src=https://user-images.githubusercontent.com/81093298/228485310-eae6ed9a-e24b-42ac-b12a-d9030f440a2b.jpeg width=500px/>
 
 *Output*
 
-<img src=https://user-images.githubusercontent.com/81093298/228488239-8eddf832-7384-4cef-a2c3-7844aa0ececf.jpeg height=500px/>
+<img src=https://user-images.githubusercontent.com/81093298/228488239-8eddf832-7384-4cef-a2c3-7844aa0ececf.jpeg width=500px/>
 
 *ChatGPT*
 
-<img src=https://user-images.githubusercontent.com/81093298/228615985-b0c0dda4-4780-4131-8c31-a84647f7e1a7.jpeg height=500px/>
+<img src=https://user-images.githubusercontent.com/81093298/228615985-b0c0dda4-4780-4131-8c31-a84647f7e1a7.jpeg width=500px/>
 it combines edge and blurred image.
 
 
@@ -71,10 +71,10 @@ it combines edge and blurred image.
 The program that calibrate chessboard video and put A on chessboard.   
 
 _Input_   
-<img width="400" alt="input1" src="https://user-images.githubusercontent.com/81093298/235342173-e15ffc30-aa40-4955-afe9-64ce11f4d562.png"> <img width="400" alt="input2" src="https://user-images.githubusercontent.com/81093298/235342177-57d4817b-2a1e-4008-83d0-65e15017f356.png">
+<img height="500" alt="input1" src="https://user-images.githubusercontent.com/81093298/235342173-e15ffc30-aa40-4955-afe9-64ce11f4d562.png"> <img height="500" alt="input2" src="https://user-images.githubusercontent.com/81093298/235342177-57d4817b-2a1e-4008-83d0-65e15017f356.png">
 
 _Output_   
-<img width="400" alt="result1" src="https://user-images.githubusercontent.com/81093298/235342178-e678119a-356d-4d77-b15e-61606d05b4ee.png"><img width="400" alt="result2" src="https://user-images.githubusercontent.com/81093298/235342180-0fb55537-9004-4df9-a8e7-6801d1cd2b06.png">
+<img height="500" alt="result1" src="https://user-images.githubusercontent.com/81093298/235342178-e678119a-356d-4d77-b15e-61606d05b4ee.png"><img height="500" alt="result2" src="https://user-images.githubusercontent.com/81093298/235342180-0fb55537-9004-4df9-a8e7-6801d1cd2b06.png">
 ---
 - Run
    ```sh
